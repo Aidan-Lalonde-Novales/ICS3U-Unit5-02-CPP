@@ -17,7 +17,7 @@ float TriangleArea(float base, float height) {
 
     // output
     std::cout << "\nThe area of your triangle is " << area
-    << "cm²." << std::endl;
+    << " cm²." << std::endl;
 }
 
 int main() {
